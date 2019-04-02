@@ -26,6 +26,7 @@ namespace ConsoleApp3
             {
                 cs.socket.Send(sendBytes);
             }
+            //test
         }
 
         public static void MsgList(ClientState c, string msgArgs)
